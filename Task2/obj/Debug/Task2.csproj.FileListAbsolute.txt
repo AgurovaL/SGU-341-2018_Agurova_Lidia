@@ -1,0 +1,7 @@
+c:\users\agurovalp\source\repos\Task2\Task2\bin\Debug\Task2.exe.config
+c:\users\agurovalp\source\repos\Task2\Task2\bin\Debug\Task2.exe
+c:\users\agurovalp\source\repos\Task2\Task2\bin\Debug\Task2.pdb
+c:\users\agurovalp\source\repos\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+c:\users\agurovalp\source\repos\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+c:\users\agurovalp\source\repos\Task2\Task2\obj\Debug\Task2.exe
+c:\users\agurovalp\source\repos\Task2\Task2\obj\Debug\Task2.pdb
