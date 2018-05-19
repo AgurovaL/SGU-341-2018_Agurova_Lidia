@@ -1,0 +1,7 @@
+c:\users\agurovalp\source\repos\NETTask3Part1\NETTask3Part1\bin\Debug\NETTask3Part1.exe.config
+c:\users\agurovalp\source\repos\NETTask3Part1\NETTask3Part1\bin\Debug\NETTask3Part1.exe
+c:\users\agurovalp\source\repos\NETTask3Part1\NETTask3Part1\bin\Debug\NETTask3Part1.pdb
+c:\users\agurovalp\source\repos\NETTask3Part1\NETTask3Part1\obj\Debug\NETTask3Part1.csprojResolveAssemblyReference.cache
+c:\users\agurovalp\source\repos\NETTask3Part1\NETTask3Part1\obj\Debug\NETTask3Part1.csproj.CoreCompileInputs.cache
+c:\users\agurovalp\source\repos\NETTask3Part1\NETTask3Part1\obj\Debug\NETTask3Part1.exe
+c:\users\agurovalp\source\repos\NETTask3Part1\NETTask3Part1\obj\Debug\NETTask3Part1.pdb
