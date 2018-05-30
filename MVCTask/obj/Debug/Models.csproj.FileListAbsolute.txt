@@ -1,4 +1,0 @@
-C:\Users\Lidia\source\repos\MVCTask\MVCTask\obj\Debug\Models.csproj.CoreCompileInputs.cache
-C:\Users\Lidia\source\repos\MVCTask\MVCTask\obj\Debug\MVCTask.exe
-C:\Users\Lidia\source\repos\MVCTask\MVCTask\obj\Debug\MVCTask.pdb
-C:\Users\Lidia\source\repos\MVCTask\MVCTask\obj\Debug\Models.csprojResolveAssemblyReference.cache
