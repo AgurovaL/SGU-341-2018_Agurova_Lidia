@@ -1,0 +1,1 @@
+C:\Users\Lidia\source\repos\MVCTask\Views\obj\Release\Views.csproj.CoreCompileInputs.cache

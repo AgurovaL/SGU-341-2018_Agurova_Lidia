@@ -1,0 +1,15 @@
+C:\Users\Lidia\source\repos\MVCTask\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\Lidia\source\repos\MVCTask\Controllers\bin\Debug\Controllers.dll
+C:\Users\Lidia\source\repos\MVCTask\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Lidia\source\repos\MVCTask\Controllers\bin\Debug\DAL.dll
+C:\Users\Lidia\source\repos\MVCTask\Controllers\bin\Debug\Models.dll
+C:\Users\Lidia\source\repos\MVCTask\Controllers\bin\Debug\DAL.pdb
+C:\Users\Lidia\source\repos\MVCTask\Controllers\bin\Debug\DAL.dll.config
+C:\Users\Lidia\source\repos\MVCTask\Controllers\bin\Debug\Models.pdb
+C:\Users\Lidia\source\repos\MVCTask\Controllers\bin\Debug\Models.dll.config
+C:\Users\Lidia\source\repos\MVCTask\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\source\repos\MVCTask\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Lidia\source\repos\MVCTask\Controllers\obj\Debug\Controllers.dll
+C:\Users\Lidia\source\repos\MVCTask\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Lidia\source\repos\MVCTask\Controllers\bin\Debug\Validation.dll
+C:\Users\Lidia\source\repos\MVCTask\Controllers\bin\Debug\Validation.pdb

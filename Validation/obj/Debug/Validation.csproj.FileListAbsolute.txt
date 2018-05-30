@@ -1,0 +1,6 @@
+C:\Users\Lidia\source\repos\MVCTask\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\source\repos\MVCTask\Validation\obj\Debug\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Lidia\source\repos\MVCTask\Validation\bin\Debug\Validation.dll
+C:\Users\Lidia\source\repos\MVCTask\Validation\bin\Debug\Validation.pdb
+C:\Users\Lidia\source\repos\MVCTask\Validation\obj\Debug\Validation.dll
+C:\Users\Lidia\source\repos\MVCTask\Validation\obj\Debug\Validation.pdb

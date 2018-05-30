@@ -1,0 +1,2 @@
+C:\Users\Lidia\source\repos\MVCTask\ModelsLib\obj\Release\Models.csprojResolveAssemblyReference.cache
+C:\Users\Lidia\source\repos\MVCTask\ModelsLib\obj\Release\Models.csproj.CoreCompileInputs.cache
