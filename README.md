@@ -1,1 +1,0 @@
-# SGU-341-2018_Agurova_Lidia
